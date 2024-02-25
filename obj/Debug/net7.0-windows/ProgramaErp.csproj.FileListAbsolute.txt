@@ -1,0 +1,69 @@
+C:\Users\dudaa\source\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.exe
+C:\Users\dudaa\source\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.deps.json
+C:\Users\dudaa\source\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.runtimeconfig.json
+C:\Users\dudaa\source\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.dll
+C:\Users\dudaa\source\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.pdb
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.GenerateResource.cache
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.AssemblyInfoInputs.cache
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.AssemblyInfo.cs
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.dll
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\refint\ProgramaErp.dll
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.pdb
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.genruntimeconfig.cache
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ref\ProgramaErp.dll
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.Properties.Resources.resources
+C:\Users\dudaa\source\repos\ProgramaErp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\dudaa\source\repos\ProgramaErp\bin\Debug\net7.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.AssemblyReference.cache
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.CopyComplete
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.FrmApresentacao.resources
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.FrmPrincipal.resources
+C:\Users\dudaa\source\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.LoginSistema.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.deps.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.runtimeconfig.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\bin\Debug\net7.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.FrmApresentacao.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.LoginSistema.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.AssemblyInfoInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.AssemblyInfo.cs
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\refint\ProgramaErp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.genruntimeconfig.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\repos\ProgramaErp\obj\Debug\net7.0-windows\ref\ProgramaErp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.exe
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.deps.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.runtimeconfig.json
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\bin\Debug\net7.0-windows\ProgramaErp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\bin\Debug\net7.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.AssemblyReference.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.FrmApresentacao.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.FrmPrincipal.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.LoginSistema.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.Properties.Resources.resources
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.GenerateResource.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.AssemblyInfoInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.AssemblyInfo.cs
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.CoreCompileInputs.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.csproj.CopyComplete
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\refint\ProgramaErp.dll
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.pdb
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ProgramaErp.genruntimeconfig.cache
+C:\Users\dudaa\OneDrive\Área de Trabalho\Cebasp\repos\ProgramaErp\obj\Debug\net7.0-windows\ref\ProgramaErp.dll

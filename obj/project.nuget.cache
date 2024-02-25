@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KvF/yrWlLOflh3Yj5YmA3PyZTCDRBP1BKbuwjZajMnXI9xIflstioPpyI7c0YoHWVpgbwdr1Iq/w2TSBsUFQhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dudaa\\OneDrive\\Área de Trabalho\\Cebasp\\repos\\ProgramaErp\\ProgramaErp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dudaa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\dudaa\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\dudaa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\dudaa\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\dudaa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\dudaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
